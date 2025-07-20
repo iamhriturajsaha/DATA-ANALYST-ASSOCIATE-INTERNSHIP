@@ -1,35 +1,35 @@
-# 📊 DATA ANALYST ASSOCIATE INTERNSHIP @ Excelerate
+# 📊 Data Analyst Associate Internship @ Excelerate
 
 ---
 
 ## 🚀 Executive Summary
 
-This project involved transforming six fragmented raw datasets into analytics-ready structures using robust ETL automation and advanced data validation. Five datasets were integrated into a unified **Master Table**, while one (Marketing Campaign Data) was analyzed separately. The result is a clean, consistent, and scalable data environment that enables advanced analytics and business intelligence.
+This project involved transforming six fragmented raw datasets into analytics-ready structures using robust ETL automation and advanced data validation. Five datasets were integrated into a unified **Master Table**, while one (Marketing Campaign Data) was analyzed separately. The result is a clean, consistent and scalable data environment that enables advanced analytics and business intelligence.
 
 ---
 
 ## 🎯 Project Objective
 
-To transform inconsistent, duplicated, and siloed raw data into a high-quality, structured format that supports strategic reporting, dashboarding, and decision-making—achieved by designing and automating a repeatable **ETL process** with strong validation checks.
+To transform inconsistent, duplicated and siloed raw data into a high-quality, structured format that supports strategic reporting, dashboarding and decision-making—achieved by designing and automating a repeatable **ETL process** with strong validation checks.
 
 ---
 
 ## 🧩 Business Problem
 
-### Key Challenges in Raw Data:
+### Key Challenges in Raw Data -
 - Up to **33% missing values** in key datasets.
 - **Text/date format inconsistencies** across datasets.
 - **Duplicate/unreliable records** compromising data integrity.
 - **No relational joins** among datasets.
   
-### Business Need:
-To create a **trusted, integrated data ecosystem** for reporting, visualization, and strategy formulation.
+### Business Need -
+To create a **trusted, integrated data ecosystem** for reporting, visualization and strategy formulation.
 
 ---
 
 ## 🗂️ Data Sources Overview
 
-| Dataset               | Records | Fields | Primary Key         |
+| Dataset               | Records | Fields | Primary Key          |
 |-----------------------|---------|--------|----------------------|
 | Learner Data          | 129,259 | 5      | learner_id           |
 | Opportunity Data      | 187     | 5      | opportunity_id       |
@@ -53,11 +53,11 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization,
 
 ## 🏗️ Master Table Fields
 
-- **From Learner-Opportunity:** `enrollment_id`, `assigned_cohort`, `apply_date`, `status`
-- **From Learner:** `learner_id`, `degree`, `institution`, `major`, `country`
-- **From Cohort:** `start_date`, `end_date`, `size`
-- **From Cognito:** `email`, `gender`, `birthday`, `city`, `zip`, `state`
-- **From Opportunity:** `opportunity_id`, `opportunity_name`, `category`, `tracking_questions`
+- **From Learner-Opportunity -** `enrollment_id`, `assigned_cohort`, `apply_date`, `status`
+- **From Learner -** `learner_id`, `degree`, `institution`, `major`, `country`
+- **From Cohort -** `start_date`, `end_date`, `size`
+- **From Cognito -** `email`, `gender`, `birthday`, `city`, `zip`, `state`
+- **From Opportunity -** `opportunity_id`, `opportunity_name`, `category`, `tracking_questions`
 
 ---
 
@@ -98,7 +98,7 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization,
 ## 📏 Validation Metrics
 
 - ✅ Over **90% completeness** in the Master Table.
-- ✅ Date, text, and numeric format consistency.
+- ✅ Date, text and numeric format consistency.
 - ✅ Referential integrity between `learner`, `cohort`, and `opportunity` exceeded **85%** match rate.
 
 ---
@@ -137,6 +137,4 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization,
 - Built a **trustworthy, consolidated data foundation**.
 - Automated ETL process ensures **repeatability and scale**.
 - Delivered **business-critical insights** to guide strategic action.
-- Positioned the organization for advanced analytics maturity.
-
-
+- Positioned the organization for advanced analytics maturity
