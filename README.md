@@ -10,7 +10,7 @@ This project involved transforming six fragmented raw datasets into analytics-re
 
 ## 🎯 Project Objective
 
-To transform inconsistent, duplicated and siloed raw data into a high-quality, structured format that supports strategic reporting, dashboarding and decision-making—achieved by designing and automating a repeatable **ETL process** with strong validation checks.
+To transform inconsistent, duplicated and siloed raw data into a high-quality, structured format that supports strategic reporting, dashboarding and decision-making, achieved by designing and automating a repeatable **ETL process** with strong validation checks.
 
 ---
 
