@@ -1,7 +1,5 @@
 # 📊 Data Analyst Associate Internship @ Excelerate
 
----
-
 ## 🚀 Executive Summary
 
 This project involved transforming six fragmented raw datasets into analytics-ready structures using robust ETL automation and advanced data validation. Five datasets were integrated into a unified **Master Table**, while one (Marketing Campaign Data) was analyzed separately. The result is a clean, consistent and scalable data environment that enables advanced analytics and business intelligence.
