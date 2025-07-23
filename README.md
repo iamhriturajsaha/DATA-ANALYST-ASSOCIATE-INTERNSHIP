@@ -42,12 +42,12 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization 
 
 ## 🔄 ETL Process Overview
 
-- **Data Extraction:** Raw CSV imports into PostgreSQL.
-- **Cleaning:** Using SQL functions like `TRIM()`, `INITCAP()`, `TO_DATE()`.
-- **Standardization:** Consistent text casing and field formats.
-- **Validation:** Regex for date integrity, duplicate removal, NULL preservation.
-- **Integration:** Created **Master Table** with 5 datasets (excluding Marketing).
-- **Automation:** End-to-end ETL automated using **stored procedures**.
+- **Data Extraction -** Raw CSV imports into PostgreSQL.
+- **Cleaning -** Using SQL functions like `TRIM()`, `INITCAP()`, `TO_DATE()`.
+- **Standardization -** Consistent text casing and field formats.
+- **Validation -** Regex for date integrity, duplicate removal, NULL preservation.
+- **Integration -** Created **Master Table** with 5 datasets (excluding Marketing).
+- **Automation -** End-to-end ETL automated using **stored procedures**.
 
 ---
 
