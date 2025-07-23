@@ -74,7 +74,7 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization 
 ## 📊 Key Insights
 
 1. **❗ Missing Demographic Data (33%)**  
-   → Recommendation: Strengthen registration form validations.
+   → Recommendation - Strengthen registration form validations.
 
 2. **📉 Status Code 1070 Dominance (67%)**  
    → Suggests program bottlenecks or lifecycle issues.
@@ -99,7 +99,7 @@ To create a **trusted, integrated data ecosystem** for reporting, visualization 
 
 - ✅ Over **90% completeness** in the Master Table.
 - ✅ Date, text and numeric format consistency.
-- ✅ Referential integrity between `learner`, `cohort`, and `opportunity` exceeded **85%** match rate.
+- ✅ Referential integrity between `learner`, `cohort` and `opportunity` exceeded **85%** match rate.
 
 ---
 
