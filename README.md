@@ -1,4 +1,4 @@
-# 📊Data Analyst Associate Internship @ Excelerate
+# 📊Data Analyst Associate Internship
 
 ## 🚀 Executive Summary
 
