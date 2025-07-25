@@ -6,6 +6,8 @@ This project involved transforming six fragmented raw datasets into analytics-re
 
 Dashboard Link - https://lookerstudio.google.com/reporting/751c83f0-9812-494f-bd94-6e15d1c53a30
 
+![Dashboard](Dashboard.jpg)
+
 ---
 
 ## 🎯 Project Objective
