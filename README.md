@@ -4,6 +4,8 @@
 
 This project involved transforming six fragmented raw datasets into analytics-ready structures using robust ETL automation and advanced data validation. Five datasets were integrated into a unified **Master Table**, while one (Marketing Campaign Data) was analyzed separately. The result is a clean, consistent and scalable data environment that enables advanced analytics and business intelligence.
 
+Dashboard Link - https://lookerstudio.google.com/reporting/751c83f0-9812-494f-bd94-6e15d1c53a30
+
 ---
 
 ## 🎯 Project Objective
